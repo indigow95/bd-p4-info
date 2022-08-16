@@ -1,0 +1,7 @@
+1) Dado, em resumo, é um valor atribuído a algo. É um registro que por si só não possui utilidade ou significado, mas que posteriormente pode ser colocado em um contexto e receber alguma relevância.
+	
+2) Informação é a contextualização dos dados, de modo que eles saiam da sua posição original de caracteres desorganizados para algo útil para um usuário.
+
+3) Arquivo convencional é a organização dos dados e informações  (e o que dará origem ao banco de dados) dentro de um sistema.
+
+4) Banco de Dados pode ser definido como um conjunto de arquivos convencionais em formato de tabela, cuja função é organizar as informações da forma que foi mais conveniente para o usuário

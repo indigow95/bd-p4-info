@@ -1,9 +1,0 @@
-Descreva as fases de um Projeto de Banco de Dados:
-1) Modelagem Conceitual: 
-    Organiza o armazenamento dos dados por meio de um driagrama entidade-relacionamento 
-
-2) Projeto Lógico:
-    Transformação do driagrama entidade-relacionamento criado na modelagem conceitual em um modelo lógico, implementando-o em um SGBD específico.
-
-3) Projeto Físico:
-    Enriquecimento do modelo de banco de dados, fazendo alterações em detalhes que impactam no sem desempenho, mas não em sua funcionalidade.
